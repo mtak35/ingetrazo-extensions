@@ -1,5 +1,5 @@
 id = "cad2ingetrazo"
-version = "3.17.6"
+version = "3.17.7"
 author = "M. Tariq"
 author_url = "https://github.com/mtak35"
 
@@ -7,8 +7,8 @@ license = "GPL-3.0-or-later"
 
 repository = "https://github.com/mtak35/cad2ingetrazo"
 
-download = "https://raw.githubusercontent.com/mtak35/cad2ingetrazo/c05edaada566d33b0b9ad37df722054bb6fdc2a2/release/cad2ingetrazo-v3.17.6.zip"
-sha256 = "960673af1fd8c31713a6af05efc25d9fabf77418a5597c8e33b69dfc970813e5"
+download = "https://raw.githubusercontent.com/mtak35/cad2ingetrazo/7bf0735c2032001461754182bf30dbbe216995da/release/cad2ingetrazo-v3.17.7.zip"
+sha256 = "0bf34033191610807d9cead8a4b50d640df845fa8cd2b7c75bc55a2c4bc8dec8"
 
 ingetrazo = "0.5.7"
 
