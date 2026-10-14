@@ -7,7 +7,7 @@ license = "GPL-3.0-or-later"
 
 repository = "https://github.com/mtak35/cad2ingetrazo"
 
-download = "https://raw.githubusercontent.com/mtak35/cad2ingetrazo/77a35a53edfdcdd955ab4330164844daf9a2b852/release/cad2ingetrazo-v3.16.1.zip"
+download = "https://raw.githubusercontent.com/mtak35/cad2ingetrazo/8747053f25e0a39104963cd409d144f858b8d1a4/release/cad2ingetrazo-v3.16.2.zip"
 sha256 = "180f86dcaa9300eeb0bb7d0388690c7ecace8c6ea0f4e5c5c5ec77143872ca12"
 
 ingetrazo = "0.5.7"
